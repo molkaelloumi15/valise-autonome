@@ -1,0 +1,41 @@
+name: my_valise
+description: "A new Flutter project."
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# Version and build number
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter 
+
+  http: ^1.2.2 # Add the http package
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  get: ^4.6.6
+  shadcn_ui: ^0.12.0
+  flutter_blue_plus: ^1.35.2
+  wifi_iot: ^0.3.19+1
+  flutter_local_notifications: ^18.0.1
+  web_socket_channel: ^3.0.2
+  shared_preferences: ^2.2.3
+  udp: ^5.0.3  # Updated to the latest version
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    -  assets/images/background.jpg # Ensure this image exists in the specified folder
+
