@@ -60,4 +60,4 @@ Le rapport de projet complet (cahier des charges, étude de l'existant, architec
 
 ---
 
-*Projet réalisé dans le cadre de la formation d'ingénieur à l'ENSIT — Molka Elloumi, [LinkedIn](https://linkedin.com/in/molkaelloumi)*
+*Projet réalisé dans le cadre de la formation d'ingénieur à l'ENSEA — Molka Elloumi, [LinkedIn](https://linkedin.com/in/molkaelloumi)*
